@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 459cc7f704b97ea4c82c17e1351ae93c
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 7128152436475500432
+    second: NurbsCurve|NurbsCurveAction
+  - first:
+      74: -786437456726422332
+    second: NurbsCurve|NurbsCurveAction.001
+  - first:
+      74: 6704124458629824301
+    second: NurbsCurve|NurbsCurveAction.002
+  - first:
+      74: -1411487894788105628
+    second: NurbsCurve|NurbsCurveAction.003
+  - first:
+      74: -3774169345007044603
+    second: NurbsCurve|NurbsCurveAction.004
+  - first:
+      74: -4569020981635834055
+    second: NurbsCurve|NurbsCurveAction.005
+  - first:
+      74: -4235538383333703235
+    second: NurbsCurve|NurbsCurveAction.006
+  - first:
+      74: 4994146912977505096
+    second: NurbsCurve|NurbsCurveAction.007
+  - first:
+      74: 4900826793422688705
+    second: NurbsCurve|NurbsCurveAction.008
+  - first:
+      74: -2711587295587395935
+    second: NurbsCurve|NurbsCurveAction.009
+  - first:
+      74: -5959199667313218199
+    second: NurbsCurve.001|NurbsCurveAction.002
+  - first:
+      74: -6510386603497968522
+    second: NurbsCurve.002|NurbsCurveAction.001
+  - first:
+      74: 6917590928644207190
+    second: NurbsCurve.004|NurbsCurveAction.005
+  - first:
+      74: -2246533590051660628
+    second: NurbsCurve.005|NurbsCurveAction.006
+  - first:
+      74: 3947149915846006747
+    second: NurbsCurve.006|NurbsCurveAction.007
+  - first:
+      74: 1468299132651265320
+    second: NurbsCurve.007|NurbsCurveAction.008
+  - first:
+      74: -7004879483054086076
+    second: NurbsCurve.008|NurbsCurveAction.009
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
