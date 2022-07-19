@@ -24,6 +24,7 @@ public class GameManger : MonoBehaviour
     public bool ballOnGround = false;
     public bool ballCatch = false;
     public string catcher;
+    public Vector3 chatchPos;
 
     private float maxSpeedOfense = 6.22f;
     private float maxSpeedDefense = 6.16f;
@@ -53,14 +54,15 @@ public class GameManger : MonoBehaviour
             }
         }
 
-        /*if (ballOnGround==true && ballThrown == true)//
+        if (ballOnGround==true && ballThrown == true)//
         {
             nextButton.SetActive(true);
         }
-        */
+        
         if (ballCatch == true && ballThrown == true)//
         {
             nextButton.SetActive(true);
+            Ball.transform.DOMove(chatchPos, 0);
         }
     }
 
@@ -71,6 +73,7 @@ public class GameManger : MonoBehaviour
         
     }
 
+    /*
     public void Catch()
     {
         if (ballCatch == true)
@@ -82,13 +85,14 @@ public class GameManger : MonoBehaviour
             
         }
     }
-   
+   */
     public void SetUpField()
     {   
         Vector3 linePos = testCSV.linePos;
         Vector3 ballPos = testCSV.ballPos;
         lineOS.transform.DOMove(linePos, 0);
         Ball.transform.DOMove(ballPos, 0);
+        
     }
 
     // Alle Defensiven Spieler werdeb erstellt und auf die Startposition gesetzt

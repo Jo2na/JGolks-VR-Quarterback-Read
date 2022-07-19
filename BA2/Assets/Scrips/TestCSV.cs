@@ -53,7 +53,7 @@ public class TestCSV : MonoBehaviour
         {
             if (CSVOffense[b] == "Center")
             {
-                ballPos = new Vector3(float.Parse(CSVOffense[b + 1]) / 1.094f, 0.08f, (float.Parse(CSVOffense[b + 2]) - 0.65f) / 1.094f);
+                ballPos = new Vector3(float.Parse(CSVOffense[b + 1]) / 1.094f, 0.08f, (float.Parse(CSVOffense[b + 2]) - 0.8f) / 1.094f);
             }
         }
         
